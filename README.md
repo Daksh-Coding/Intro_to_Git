@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daksh-Coding
+- 👋 Hi, I’m Daksh Kothari
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++ & Python
 
