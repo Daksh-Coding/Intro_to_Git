@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Daksh Kothari
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ & Python
+👋 Hi, I’m Daksh Kothari
 
 <!---
 Daksh-Coding/Daksh-Coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
